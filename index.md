@@ -1,4 +1,9 @@
+# Raghav's First CS193 Homework
 
+**My Favorite Things About CS193**
+-I get to learn a lot about technologies
+-It's a chill class
+-The instructors are cool
 ```markdown
 Syntax highlighted code block
 
@@ -16,5 +21,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-**Best Rappers of All Time**
-1.Travis Scott
